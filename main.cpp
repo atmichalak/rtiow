@@ -1,9 +1,8 @@
-#include "rtweekend.hpp"
-
 #include "camera.hpp"
 #include "color.hpp"
 #include "hittable_list.hpp"
 #include "material.hpp"
+#include "rtweekend.hpp"
 #include "sphere.hpp"
 
 #include <iostream>
