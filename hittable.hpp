@@ -5,9 +5,8 @@
 #ifndef RTIOW_HITTABLE_HPP
 #define RTIOW_HITTABLE_HPP
 
-#include "rtweekend.hpp"
-
 #include "ray.hpp"
+#include "rtweekend.hpp"
 
 class material;
 

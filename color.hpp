@@ -6,7 +6,6 @@
 #define RTIOW_COLOR_HPP
 
 #include "rtweekend.hpp"
-
 #include "vec3.hpp"
 
 #include <iostream>
